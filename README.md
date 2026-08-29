@@ -1,7 +1,7 @@
 
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2000&pause=500&color=F7F7F7&width=435&lines=THE+WORLD+IS+MINE;ROBOTICS;FULL-STACK+DEV;WEB+DEV;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
+<a href="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2000&pause=500&color=F7F7F7&width=435&lines=THE+WORLD+IS+MINE;ROBOTICS;FULL-STACK+DEV;WEB+DEV;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)" </a> 
 </div>
 
 
