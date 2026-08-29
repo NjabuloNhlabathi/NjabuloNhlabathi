@@ -1,11 +1,10 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2000&pause=500&color=F7F7F7&width=435&lines=THE+WORLD+IS+MINE;ROBOTICS;FULL-STACK+DEV;WEB+DEV;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 
 ---
